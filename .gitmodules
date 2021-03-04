@@ -1,0 +1,3 @@
+[submodule "idx-ui-library"]
+	path = idx-ui-library
+	url = https://github.com/aruncdm/idx-ui-library
