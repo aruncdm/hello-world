@@ -94,9 +94,9 @@
 </template>
 
 <script>
-import ExtractionCard from './assets/idxUILib/extractionCard.vue';
-import IdxButton from './assets/idxUILib/IdxButton';
-import OverviewCard from './assets/idxUILib/overviewCard.vue';
+import ExtractionCard from './assets/idxUILibrary/extractionCard.vue';
+import IdxButton from './assets/idxUILibrary/IdxButton';
+import OverviewCard from './assets/idxUILibrary/overviewCard.vue';
 
 
 export default {
