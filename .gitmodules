@@ -1,0 +1,3 @@
+[submodule "src/assets/idxUILibrary"]
+	path = src/assets/idxUILibrary
+	url = https://github.com/aruncdm/idxUILibrary.git
